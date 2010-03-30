@@ -1,0 +1,224 @@
+/**Author Name:Gen 
+   Developed in Vin Labs 
+   Copyright at gendesigns.blogspot.com 
+   ProjectName:Computer Zone **/
+*{ margin: 0px; padding: 0px; }*
+body
+{ 
+  background:#eee center top;
+  color: #dcdcdc;
+  font: .8em normal small "Trebuchet MS",Tahoma, verdana, arial, helvetica, sans-serif;line-height: 1.6em;
+}
+/**Common**/
+p
+{
+	font-family:arial;
+	font-size:0.9em;
+}
+/**Wrapper **/
+#wrapper 
+{
+	width:900px;
+	margin:5px auto;
+	background:#ffffff;
+}
+#top,#footer,#main,#content,#container
+{
+	width:850px;
+	margin:0px auto;
+}
+#top
+{
+	
+	background:#fdfdfd url(images/cstrip.gif) repeat-x;
+	height:74px;
+}
+#logo h1
+{
+	font-family:ae_Cortoba;
+    font-size:2.4em;
+    font-weight:500;
+    margin:0px ;
+    padding-left:50px;
+	padding-top:20px;
+	color:#eee;
+}
+#logo p
+{
+	 padding-left:60px;
+}
+#logo
+{
+float:left;
+}
+/**Menu***/
+ul
+{
+list-style:none;
+}
+#menu li
+{
+display:inline;
+}
+li a
+{
+text-align:center;
+color:#9ab2be;
+float: left;
+height: 38px;
+margin-right: 1px;
+text-decoration: none;
+font-size: 1.1em;
+padding: 20px 20px 13px 20px;
+}
+#menu
+{
+margin-left:350px;
+}
+#menu a:hover
+{
+	color:#fff;
+}
+#main
+{
+	background:#244458 url(images/pic.gif) no-repeat ;
+	height:284px;
+}
+#content
+{
+	
+	height:185px;
+    background:url(images/cstrip.gif) repeat-x;	
+}
+#left,#right
+{
+	width:275px;
+    height:184px;padding-top:5px;
+    	
+}
+#left
+{
+	float:left;
+	
+}
+#right
+{
+	float:right;
+	
+}
+#center
+{
+	margin:0px 275px 0px 275px;
+	border-left:1px solid #4F4A4A;
+	border-right:1px solid #4F4A4A;
+	height:177px;
+    padding-top:5px;
+}
+#left h1,#right h1,#center h1
+{
+font-size:1.5em;
+padding:10px 0 0 50px;
+font-family:arial;
+}
+#left p,#right p,#center p
+{
+padding:10px 15px 0px 20px;
+}
+#left h2,#right h2,#center h2
+{
+	padding-left:170px;
+	font-family:arial,verdana,sans-serif,tahoma;
+	font-size:0.9em;
+}
+#left a,#right a,#center a
+{
+	color:#fff;
+	text-decoration:none;
+}
+#container
+{
+	height:270px;
+	background:#d9d9d9;
+	margin-top:5px;
+	margin-bottom:5px;
+	
+}
+#lcontain
+{
+	width:260px;
+	background:#eeeeee;
+	float:left;
+	margin-left:5px;
+	height:260px;
+	margin-top:7px;
+
+}
+#rcontain
+{
+	
+	background:#eeeeee;
+	float:right;
+	width:575px;
+      height:260px;
+	margin-right:5px;
+    margin-top:7px;
+ 	
+}
+#rcontain  h1,#lcontain h1
+{
+color:#2f2f2f;
+font-size:1.5em;
+font-family:arial;
+padding:15px 0px 0px 15px;
+}
+#rcontain p
+{
+color:#2f2f2f;
+padding:10px 10px 0 15px;
+}
+#lcontain p,#lcontain h2
+{
+color:#2f2f2f;
+padding-left:15px;
+}
+#lcontain h2
+{
+font-size:1.1em;
+font-family:arial;
+}
+#lcontain a 
+{
+	color:#1c443b;
+}
+.col
+{
+float:left;
+width:280px;
+}
+.col li a
+{
+float:none;
+color:#1c443b;
+text-decoration:underline;
+}
+.col li a:hover
+{
+	text-decoration:none;
+}
+
+/**footer ***/
+#footer {
+	background: #2e2e2e url(images/fstrip1.gif) repeat-x;
+	margin: 0 auto;
+	text-align: center;
+	clear:both;
+	height:30px;
+}
+#footer a {
+	color: #5E6F6E;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #9ab2be;
+	text-decoration: underline;
+}
