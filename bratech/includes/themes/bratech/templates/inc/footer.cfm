@@ -14,7 +14,7 @@
 
 
 <cfoutput>
-		<div id="footer">
+		<div id="footerbratech">
 			Copyright	&copy; 2000 <a href="http://www.bratech.co.uk">bratech.co.uk</a>. Valid <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> &amp; <a href="http://validator.w3.org/check?uri=referer">XHTML</a>.
 	    </div>				
 	</div>	

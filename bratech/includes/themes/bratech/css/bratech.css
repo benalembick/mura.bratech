@@ -22,12 +22,12 @@ p
 	margin:5px auto;
 	background:#ffffff;
 }
-#top,#footer,#main,#content,#container
+#topbratech,#footerbratech,#mainbratech,#contentbratech,#containerbratech
 {
 	width:850px;
 	margin:0px auto;
 }
-#top
+#topbratech
 {
 	
 	background:#fdfdfd url(../images/bratech/cstrip.gif) repeat-x;
@@ -87,34 +87,34 @@ padding: 20px 20px 13px 20px;
 
 
 
-#main
+#mainbratech
 {
 	background:#244458 url(../images/bratech/pic.gif) no-repeat ;
 	height:284px;
 }
-#content
+#contentbratech
 {
 	
 	height:185px;
     background:url(../images/bratech/cstrip.gif) repeat-x;	
 }
-#left,#right
+#leftbratech,#rightbratech
 {
 	width:275px;
     height:184px;padding-top:5px;
     	
 }
-#left
+#leftbratech
 {
 	float:left;
 	
 }
-#right
+#rightbratech
 {
 	float:right;
 	
 }
-#center
+#centerbratech
 {
 	margin:0px 275px 0px 275px;
 	border-left:1px solid #4F4A4A;
@@ -122,28 +122,28 @@ padding: 20px 20px 13px 20px;
 	height:177px;
     padding-top:5px;
 }
-#left h1,#right h1,#center h1
+#leftbratech h1,#rightbratech h1,#centerbratech h1
 {
 font-size:1.5em;
 padding:10px 0 0 50px;
 font-family:arial;
 }
-#left p,#right p,#center p
+#leftbratech p,#rightbratech p,#centerbratech p
 {
 padding:10px 15px 0px 20px;
 }
-#left h2,#right h2,#center h2
+#leftbratech h2,#rightbratech h2,#centerbratech h2
 {
 	padding-left:170px;
 	font-family:arial,verdana,sans-serif,tahoma;
 	font-size:0.9em;
 }
-#left a,#right a,#center a
+#leftbratech a,#rightbratech a,#centerbratech a
 {
 	color:#fff;
 	text-decoration:none;
 }
-#container
+#containerbratech
 {
 	height:270px;
 	background:#d9d9d9;
@@ -215,18 +215,18 @@ text-decoration:underline;
 }
 
 /**footer ***/
-#footer {
+#footerbratech {
 	background: #2e2e2e url(../images/bratech/fstrip1.gif) repeat-x;
 	margin: 0 auto;
 	text-align: center;
 	clear:both;
 	height:30px;
 }
-#footer a {
+#footerbratech a {
 	color: #5E6F6E;
 	text-decoration: none;
 }
-#footer a:hover {
+#footerbratech a:hover {
 	color: #9ab2be;
 	text-decoration: underline;
 }

@@ -22,8 +22,8 @@
 
 <cfoutput>
 <div id="wrapper">
-	   <div id="header">
-	   <div id="top">
+	   <div id="headerbratech">
+	   <div id="topbratech">
             <div id="logo">		   	 
 		         <h1>BRATech</h1>
         			<p>support</p>

@@ -423,7 +423,7 @@ h1 a {
 #navPrimary {
 	height: 40px;
 	overflow: hidden;
-	margin: 40px 0 0 0;
+	margin: 20px 0 0 0;
 	padding: 0;
 	list-style: none;
 	font-weight: bold;
@@ -448,6 +448,8 @@ h1 a {
 	line-height: 40px;
 	color: #9ab2be;
 	text-decoration: none;
+	font-family:arial,verdana,sans-serif,tahoma;
+	
 	}
 
 #navPrimary li a:hover, #navPrimary li.current a, #navPrimary li:hover, #navPrimary li.sfhover {
